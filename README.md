@@ -3,7 +3,7 @@ Circadian rhythms are biological oscillations with a period close to 24h, which 
 
 
 
-![Fig1](https://github.com/shijusisobhan/A-realistic-dual-oscillator-model-of-circadian-rhythms/blob/main/Picture1.jpg = 100x100))
+![Fig1](https://github.com/shijusisobhan/A-realistic-dual-oscillator-model-of-circadian-rhythms/blob/main/Picture1.jpg {width=40px height=400px}))
 
 
 ## ODE Model
