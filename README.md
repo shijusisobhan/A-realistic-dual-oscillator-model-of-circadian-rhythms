@@ -5,6 +5,8 @@ Circadian rhythms are biological oscillations with a period close to 24h, which 
 
 ![Fig1](https://github.com/shijusisobhan/A-realistic-dual-oscillator-model-of-circadian-rhythms/blob/main/Picture1.jpg | width=100)
 
+<img src="https://github.com/shijusisobhan/A-realistic-dual-oscillator-model-of-circadian-rhythms/blob/main/Picture1.jpg" width="100" height="100">
+
 ## ODE Model
 The circadian model is based on ordinary differetial equations (ODE).There are overall 13 equations with 60 parameters.We estimate all the parameters for the wild type by genetic algorithms to fit the mRNA’s and proteins got from the experiments. The present mathematical model consists of (i) Hill’s equation to describe the positive and negative regulations (ii) Michaelis-Menten equation to describe the degradation of mRNA’s and proteins (iii) mass action kinetics to describe both the complexation and first order degradation reactions. In the model, we also consider the nuclear and cytosolic per1/2 and Bmal1 genes and their proteins separately. The
 variables Mp1, Mp2, P1c, P1n, P2c, P2n, Mb, Bc, BN, MR, R, PB1, and PB2, are per1 mRNA,
