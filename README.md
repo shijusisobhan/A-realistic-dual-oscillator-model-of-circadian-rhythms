@@ -17,4 +17,4 @@ L is the light parameter, which when silenced (L = 0), is taken to be under DD c
 There are overall 13 equations with 60 parameters
 
 
-![Fig2](https://github.com/shijusisobhan/A-realistic-dual-oscillator-model-of-circadian-rhythms/blob/main/Picture3.jpg))
+![Fig2](https://github.com/shijusisobhan/A-realistic-dual-oscillator-model-of-circadian-rhythms/blob/main/Picture3.jpg)
