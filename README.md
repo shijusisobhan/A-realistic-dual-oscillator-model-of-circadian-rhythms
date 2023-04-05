@@ -4,4 +4,3 @@ Circadian rhythms are biological oscillations with a period close to 24h, which 
 
 
 ![Fig1](https://github.com/shijusisobhan/A-realistic-dual-oscillator-model-of-circadian-rhythms/blob/main/Picture1.jpg))
-*Fig 1. RNA sequencing steps (From Griffith et al. (2015))*
